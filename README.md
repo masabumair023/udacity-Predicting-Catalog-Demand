@@ -41,7 +41,7 @@ p1-mailinglist.xlsx - This dataset is the 250 customers that you need to predict
 - Score_No: The probability that the customer WILL NOT respond to the catalog and not make a purchase.
 - Score_Yes: The probability that the customer WILL respond to the catalog and make a purchase.
 
-## Authors 
+## Author 
 [@masabumair](https://github.com/masabumair023)
 
   
